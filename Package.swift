@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZendeskChatProvidersSDK",
-            path: "ChatProvidersSDK.xcframework"
+            path: "ZendeskChatProvidersSDK.xcframework"
         )
     ]
 )
